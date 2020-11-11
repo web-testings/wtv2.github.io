@@ -1,0 +1,11 @@
+*.log
+node_modules/
+dist
+*.svg
+
+.nyc_output
+coverage.lcov
+coverage
+
+.idea
+.vscode
